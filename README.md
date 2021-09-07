@@ -2,7 +2,7 @@
 - 👀 I’m interested in content creation.
 - 🌱 I’m currently learning JavaScript/3D Modelling/C++ (not at the same time)
 - 💞️ I’m looking to collaborate on anything potentially.
-- 📫 How to reach me sselesUxobnI#3253
+- 📫 How to reach me sselesUxobnI#3253 or https://discord.gg/U86DUHmJPV
 
 <!---
 sselesUssecnirP/sselesUssecnirP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
