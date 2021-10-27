@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+
+html, body {
+
+    font-family: 'Zen Kurenoido', sans-serif;
+    margin: 0px;
+    height: 100%;
+    background-color: #3b3939;
+}
+
+.button {
+
+    border: none;
+    padding: 7.5px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: large;
+}
+
+a:hover {
+
+    color: #543775;
+}
+
+a:active {
+
+    color: #8104a0;
+}
+
+a:visited {
+
+    color: #dec5ff;
+}
+
+a:link {
+
+    color: #dd57ff;
+}
+
+div#body {
+
+    margin: 10px;
+    padding: 20px;
+    display: inline;
+}
+
+div#topBar {
+    
+    margin-bottom: 30px;
+    position: sticky;
+    height: 30px;
+    top: 0px;
+    left: 0px;
+    
+}
+
+div.topBar {
+
+    background-color: rgb(43, 43, 43);
+    text-align: center;
+}
+
+button#aboutme {
+
+    background-color: #252525;
+    display: inline
+}
