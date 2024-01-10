@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sselesUssecnirP
 - 👀 I’m interested in content creation.
 - 🌱 I’m currently learning JavaScript
-> My focus(es) is(are) JavaScript at the moment.
+  - My focuses are JS/TS (am okay) and C++ (am baby).
 - 💞️ I’m looking to collaborate on anything potentially.
 - 📫 How to reach me sselesUxobnI#3253 or https://discord.gg/U86DUHmJPV
 
