@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
   - My focuses are JS/TS (am okay) and C++ (am baby).
 - 💞️ I’m looking to collaborate on anything potentially.
-- 📫 How to reach me sselesUxobnI#3253 or https://discord.gg/U86DUHmJPV
+- 📫 How to reach me ---------- ;~; ------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sselesUssecnirP&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
 
